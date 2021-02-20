@@ -1,0 +1,105 @@
+/* SE 2480 Lab 1 - Web Page */
+/* Jake Strasler */
+/* Section 021 */
+
+.MSOESeal {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Name, .Winter2020 {
+    text-align: center;
+}
+
+.MSOELink {
+    display: block;
+    text-align: center;
+}
+
+.Table {
+    margin: auto;
+    width: 50%;
+}
+
+body {
+    background-color: #E5F3FF;
+}
+
+img {
+    padding: 10px;
+}
+
+h3 {
+    font-family: "Lucida Console";
+}
+
+h4 {
+    font-family: "Lucida Console";
+}
+
+a, tr, td {
+    font-family: "Lucida Console";
+    text-decoration: unset;
+    margin-bottom: 20px;
+}
+
+th {
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+
+tr, td{
+    border: 1px solid black;
+    background-color: aliceblue;
+}
+
+a:hover {
+    font-size: x-large;
+}
+
+table {
+    text-align: center;
+    width: 85%;
+    border: 5px ridge black;
+}
+
+.eight {
+    width: 10%;
+}
+
+.MondayCol, .TuesdayCol, .WednesdayCol, .ThursdayCol, .FridayCol {
+    width: 18%
+}
+
+.Physics {
+    background-color: cadetblue;
+    color: antiquewhite;
+}
+
+.WebApps {
+    background-color: cornflowerblue;
+    color: brown;
+}
+
+.CompOrg {
+    background-color: antiquewhite;
+    color: cadetblue;
+}
+
+.SWComponent {
+    background-color: brown;
+    color: cornflowerblue;
+}
+
+.FreeTime {
+    background-color: ghostwhite;
+    color: #ba0101;
+}
+
+
+
+
